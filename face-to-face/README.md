@@ -6,4 +6,4 @@ This project required a page that lists all participants, a template for individ
 
 Advanced Custom Fields, PHP, and CSS were used to create a custom post type and page templates.
 
-The Face to Face page can be found here: <https://csgjusticecenter.org/face-to-face-in-action/>
+The Face to Face page can be found here: <https://web.archive.org/web/20191007203003/csgjusticecenter.org/nrrc/face-to-face-in-action/>
