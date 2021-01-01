@@ -13,8 +13,6 @@ get_header();
 		<?php the_date(); ?>
 		<?php the_content(); ?>
 
-		<p><a href="https://csgjusticecenter.org/nrrc/publications/face-to-face-connecting-policymakers-to-people-involved-with-the-correctional-system/">See other governors in action.</a></p>
-
 		<div class="pagination pagination-single f2f-pagination">
 			<span class="next"><?php next_post_link() ?></span>
 			<span class="previous"><?php previous_post_link() ?></span>
